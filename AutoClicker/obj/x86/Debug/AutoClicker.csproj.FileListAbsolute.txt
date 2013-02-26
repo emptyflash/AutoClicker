@@ -1,0 +1,7 @@
+c:\users\cameron\documents\visual studio 2010\Projects\AutoClicker\AutoClicker\bin\Debug\AutoClicker.exe
+c:\users\cameron\documents\visual studio 2010\Projects\AutoClicker\AutoClicker\bin\Debug\AutoClicker.pdb
+c:\users\cameron\documents\visual studio 2010\Projects\AutoClicker\AutoClicker\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\cameron\documents\visual studio 2010\Projects\AutoClicker\AutoClicker\obj\x86\Debug\AutoClicker.exe
+c:\users\cameron\documents\visual studio 2010\Projects\AutoClicker\AutoClicker\obj\x86\Debug\AutoClicker.pdb
+c:\users\cameron\documents\visual studio 2010\Projects\AutoClicker\AutoClicker\bin\Debug\InputSimulator.pdb
+c:\users\cameron\documents\visual studio 2010\Projects\AutoClicker\AutoClicker\bin\Debug\InputSimulator.xml
